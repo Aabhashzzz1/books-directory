@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Naruto",
+        "author": "MASASHI KISHIMOTO"
+    },
+    {
+        "id": 2,
+        "name": "My Hero Academia",
+        "author": "KOHEI HORIKOSHI"
+    },
+    {
+        "id": 3,
+        "name": "One Piece",
+        "author": "EIICHIRO ODA"
+    },
+    {
+        "id": 4,
+        "name": "Tokyo Ghoul",
+        "author": "SUI ISHIDA"
+    }
+]
