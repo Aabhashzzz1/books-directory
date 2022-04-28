@@ -34,7 +34,7 @@ npm run dev
 
 `Getting all the books data`
 
-<img align="left" alt="Get All" width="100%" height="20%" src="./vid/getAll.gif" style="padding-right:10px;" />
+<img align="center" alt="Get All" width="80%" height="20%" src="./vid/getAll.gif" style="padding-right:10px;" />
 
 ```javascript
 router.get('/', (req,res) => {
