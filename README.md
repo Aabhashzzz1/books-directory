@@ -34,7 +34,7 @@ npm run dev
 
 `Getting all the books data`
 
-<img align="left" alt="Get All" width="100%" height="30%" src="./vid/getAll.gif" style="padding-right:10px;" />
+<img align="left" alt="Get All" width="100%" height="20%" src="./vid/getAll.gif" style="padding-right:10px;" />
 
 ```javascript
 router.get('/', (req,res) => {
@@ -44,7 +44,7 @@ router.get('/', (req,res) => {
 
 `Getting only one or specific books data by id`
 
-<img align="left" alt="Get One" width="100%" height="30%" src="./vid/getOne.gif" style="padding-right:10px;" />
+<img align="center" alt="Get One" width="80%" height="20%" src="./vid/getOne.gif" style="padding-right:10px;" />
 
 ```javascript
 router.get('/:id', (req,res) => {
@@ -57,7 +57,7 @@ router.get('/:id', (req,res) => {
 
 `Posting books data in json file/format`
 
-<img align="left" alt="Get One" width="100%" height="30%" src="./vid/post.gif" style="padding-right:10px;" />
+<img align="center" alt="Get One" width="80%" height="20%" src="./vid/post.gif" style="padding-right:10px;" />
 
 ```javascript
 router.post('/', (req,res) => {
@@ -72,7 +72,7 @@ router.post('/', (req,res) => {
 
 `Putting/Updating books data in json file`
 
-<img align="left" alt="Get One" width="100%" height="30%" src="./vid/put.gif" style="padding-right:10px;" />
+<img align="center" alt="Get One" width="80%" height="20%" src="./vid/put.gif" style="padding-right:10px;" />
 
 ```javascript
 router.put('/:id', (req,res) => {
@@ -92,7 +92,7 @@ router.put('/:id', (req,res) => {
 
 `Deleting only one or specific books data by id`
 
-<img align="left" alt="Get One" width="100%" height="30%" src="./vid/del.gif" style="padding-right:10px;" />
+<img align="center" alt="Get One" width="80%" height="20%" src="./vid/del.gif" style="padding-right:10px;" />
 
 ```javascript
 router.delete('/:id', (req,res) => {
